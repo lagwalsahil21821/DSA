@@ -1,0 +1,1 @@
+{"name":"Local: quicksort","url":"c:\\Users\\lagwa\\Desktop\\DSA\\Practice\\week 4\\sorting\\quicksort.cpp","tests":[{"id":1643127632743,"input":"11\n6 4 8 2 9 3 9 4 7 6 1","output":"1 2 3 4 4 6 6 7 8 9 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lagwa\\Desktop\\DSA\\Practice\\week 4\\sorting\\quicksort.cpp","group":"local","local":true}
