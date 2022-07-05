@@ -2,7 +2,7 @@
 using namespace std;
 void merge(vector<int> &v,int l,int mid,int r)
 {
-    int n = v.size();
+    int n = v.size();   // l - r + 1
     int i = l;      // store index
     int j = mid + 1;
     int k = l;  //indexing of resultant array 
